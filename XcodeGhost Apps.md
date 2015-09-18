@@ -17,3 +17,5 @@ http://drops.wooyun.org/news/8864
 * 51卡保险箱
 * 同花顺
 * 中信银行动卡空间
+* 同花顺爱基金
+* Listen+
