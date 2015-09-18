@@ -17,3 +17,25 @@ http://drops.wooyun.org/news/8864
 * 51卡保险箱
 * 同花顺
 * 中信银行动卡空间
+
+感谢知乎用户[@周逸灵](http://www.zhihu.com/people/zhou-yi-ling-31)的评论
+* Lifesmart 
+来源 v2ex (http://v2ex.com/t/221722?p=2#) 第184楼 评论
+* 马拉马拉
+* 药给力
+* 喜马拉雅
+* 口袋记账
+
+感谢知乎用户[@龙小刚](http://www.zhihu.com/people/rainoxu)的测试
+* 有货
+* 微链
+
+来自foxkillerli的测试
+* 中国南方航空
+* 豆瓣阅读
+
+来自腾讯官方微博
+* 微信 6.2.5 版本
+
+来自知乎用户[@李云龙](http://www.zhihu.com/people/li-yun-long-73)的测试
+* 快速问医生
