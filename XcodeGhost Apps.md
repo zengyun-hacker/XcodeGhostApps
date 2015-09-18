@@ -32,6 +32,7 @@ http://drops.wooyun.org/news/8864
 
 来自foxkillerli的测试
 * 中国南方航空
+* 豆瓣阅读
 
 来自腾讯官方微博
 * 微信 6.2.5 版本
