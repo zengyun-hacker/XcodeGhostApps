@@ -36,3 +36,6 @@ http://drops.wooyun.org/news/8864
 
 来自腾讯官方微博
 * 微信 6.2.5 版本
+
+来自知乎用户[@李云龙](http://www.zhihu.com/people/li-yun-long-73)的测试
+* 快速问医生
